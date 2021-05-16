@@ -1,0 +1,6 @@
+class albin{
+		public static void main(Sring[] args){
+				System.out.println("This the first program here");
+}
+}
+
